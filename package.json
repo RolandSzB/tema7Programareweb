@@ -1,0 +1,12 @@
+{
+  "name": "tema7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RolandSzB/tema7Programareweb.git",
+  "author": "SziBe Roland <roland.szilagyi-benedek@emanuel.ro>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.1"
+  }
+}
